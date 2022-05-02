@@ -1,6 +1,9 @@
-### Library Management System
+# Library Management System
 
-It contains:
---User login Menu
---User Sign Up Menu
---Admin login Menu
+### It contains:
+
+- User login Menu
+
+- User Sign Up Menu
+
+- Admin login Menu
